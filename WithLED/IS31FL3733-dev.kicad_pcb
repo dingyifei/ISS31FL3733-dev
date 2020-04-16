@@ -40,7 +40,7 @@
   )
 
   (setup
-    (last_trace_width 0.2)
+    (last_trace_width 0.3)
     (user_trace_width 0.128)
     (user_trace_width 0.2)
     (user_trace_width 0.25)
@@ -199,8 +199,6 @@
     (add_net /SYNC)
     (add_net GND)
     (add_net "Net-(R6-Pad2)")
-    (add_net "Net-(U1-Pad1)")
-    (add_net "Net-(U1-Pad36)")
     (add_net VCC)
   )
 
